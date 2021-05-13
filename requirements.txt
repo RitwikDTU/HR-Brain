@@ -1,14 +1,9 @@
 sklearn
 pandas
 numpy
-joblib
-matplotlib
-seaborn
-evalml
 lightgbm
 imblearn
 smote
-flake8
 flask
 mlflow
 flask_cors
