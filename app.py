@@ -191,7 +191,7 @@ def monitor_():
                 #Register the model
                 #mlflow.sklearn.log_model(lgbm, "model", registered_model_name="LightBGM")
             #else:
-            mlflow.sklearn.log_model(lgbm, "model")
+            #mlflow.sklearn.log_model(lgbm, "model")
             
             return render_template("modelMonitor.html")
         
